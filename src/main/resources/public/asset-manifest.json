@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bd5f61f.css",
+    "main.js": "/static/js/main.34a8ef96.js",
+    "static/js/787.774729bc.chunk.js": "/static/js/787.774729bc.chunk.js",
+    "static/media/Sunrisers Hyderabad.png": "/static/media/Sunrisers Hyderabad.9c10a8bd60e70a992f65.png",
+    "static/media/Rising Pune Supergiant.png": "/static/media/Rising Pune Supergiant.d9bc725ce3e882f8a150.png",
+    "static/media/Rising Pune Supergiants.png": "/static/media/Rising Pune Supergiants.d9bc725ce3e882f8a150.png",
+    "static/media/Gujarat Lions.png": "/static/media/Gujarat Lions.b9b06c6738339f79ce9a.png",
+    "static/media/Rajasthan Royals.png": "/static/media/Rajasthan Royals.a4af7055b57d79194904.png",
+    "static/media/Kochi Tuskers Kerala.png": "/static/media/Kochi Tuskers Kerala.e22c50fdad5b787427ae.png",
+    "static/media/Kolkata Knight Riders.png": "/static/media/Kolkata Knight Riders.d0aec51f9e5c8f23eb63.png",
+    "static/media/Pune Warriors.png": "/static/media/Pune Warriors.9c3ef945cae8e240d273.png",
+    "static/media/Royal Challengers Bangalore.png": "/static/media/Royal Challengers Bangalore.4d74cedf370841031f75.png",
+    "static/media/Delhi Capitals.png": "/static/media/Delhi Capitals.e376b308a573b83d3683.png",
+    "static/media/Deccan Chargers.png": "/static/media/Deccan Chargers.aedf98850ceb17f9b52a.png",
+    "static/media/Kings XI Punjab.png": "/static/media/Kings XI Punjab.b36aef72952efe6ed887.png",
+    "static/media/Delhi Daredevils.png": "/static/media/Delhi Daredevils.45231befeee83ceba876.png",
+    "static/media/Chennai Super Kings.png": "/static/media/Chennai Super Kings.d0f0346d371d6204c94c.png",
+    "static/media/Mumbai Indians.png": "/static/media/Mumbai Indians.2dfcea0540357c2d1b18.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.6bd5f61f.css.map": "/static/css/main.6bd5f61f.css.map",
+    "main.34a8ef96.js.map": "/static/js/main.34a8ef96.js.map",
+    "787.774729bc.chunk.js.map": "/static/js/787.774729bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bd5f61f.css",
+    "static/js/main.34a8ef96.js"
+  ]
+}

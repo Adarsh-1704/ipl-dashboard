@@ -1,0 +1,12 @@
+com\adarsh\IPLdashboardservice\Repository\TeamRepository.class
+com\adarsh\IPLdashboardservice\IplDashboardServiceApplication.class
+com\adarsh\IPLdashboardservice\BatchProcessing\JobCompletionNotificationListener.class
+com\adarsh\IPLdashboardservice\Processor\MatchProcessor.class
+com\adarsh\IPLdashboardservice\BatchProcessing\BatchConfiguration$1.class
+com\adarsh\IPLdashboardservice\Models\Match.class
+com\adarsh\IPLdashboardservice\Controller\MatchController.class
+com\adarsh\IPLdashboardservice\Models\Team.class
+com\adarsh\IPLdashboardservice\Models\MatchInput.class
+com\adarsh\IPLdashboardservice\BatchProcessing\BatchConfiguration.class
+com\adarsh\IPLdashboardservice\Controller\TeamController.class
+com\adarsh\IPLdashboardservice\Repository\MatchRepository.class
